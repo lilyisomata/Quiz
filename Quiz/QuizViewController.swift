@@ -132,6 +132,8 @@ class QuizViewController: UIViewController {
     
     }
     
+    
+    //githubの練習のためにコメントし申した
         
         
         
